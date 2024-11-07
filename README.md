@@ -1,7 +1,7 @@
-###University Management System
+### University Management System
 A desktop application designed to streamline the administrative management tasks of university operations. This system focuses on managing student and faculty records, leave requests, fee statuses, and admissions data, providing a centralized and user-friendly solution for university administrators.
 
-###Key Features
+### Key Features
 User Management: Secure login system for administrators to manage both student and faculty records.
 Data Management: Update and maintain records for leave requests, fees, and admissions.
 Reporting: Generate reports for leave statuses and fee payments, aiding in effective decision-making.
